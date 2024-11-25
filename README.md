@@ -24,7 +24,6 @@ To run this project, simply clone this repo and open / host index.html.
 To make the page match your branding, you can change the following:
 
 - Colors: The page uses Tailwind CSS utility classes, making it easy to modify colors. Simply update the color classes (e.g., bg-orange-500, text-gray-800, etc.).
-- Fonts: The default font is Poppins. You can change the font by updating the @import URL in the <style> section or modifying the Tailwind configuration file.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
