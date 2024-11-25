@@ -20,10 +20,6 @@ To run this project, simply clone this repo and open / host index.html.
    ```bash
    git clone https://github.com/Ondra9071/HighSeas-PortfolioTemplate.git
    ```
-## Customization
-To make the page match your branding, you can change the following:
-
-- Colors: The page uses Tailwind CSS utility classes, making it easy to modify colors. Simply update the color classes (e.g., bg-orange-500, text-gray-800, etc.).
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
